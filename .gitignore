@@ -1,0 +1,30 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+CMakeSettings.json
+
+# Generated files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# Snapshots and logs
+snapshots/
+alarm_log.csv
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
